@@ -26,4 +26,7 @@ I used the ProsusAI/finbert model from the HuggingFace Transformers library: htt
 
 Ultimately there was no correlation between Stock Prices and Comment Sentiment/count/volume:
 
-![alt text](https://imgur.com/a/Ce7llvi)
+<p align="center">
+  <img src="C:\Users\Mario Hage\Desktop\nocorr.png" width="350" title="hover text">
+  <img src="C:\Users\Mario Hage\Desktop\nocorr.png_number_2_large_name" width="350" alt="accessibility text">
+</p>
